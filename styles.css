@@ -1,2 +1,12 @@
-
+<form action="">
+    <label for="name">Name</label><br>
+    <input type="text" id="name" mane="name" maxlength="50" minlength="3" required>
+<br>
+    <label for="portfilio" >portfolio</label><br>
+    <input type="text" name="portfolio" id="portfolio" required><br>
+<label for="favColor">favColor</label><br>
+<input type="color" name="favColor" id="favColor" required><br>
+<label for="slider">select a value</label><br>
+<input type="range" id="slider" name="slider">
+</form>
 /* Your CSS Code here. */
