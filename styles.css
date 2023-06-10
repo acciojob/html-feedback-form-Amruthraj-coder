@@ -7,6 +7,6 @@
 <label for="favColor">favColor</label><br>
 <input type="color" name="favColor" id="favColor" required><br>
 <label for="slider">select a value</label><br>
-<input type="range" id="likeness" name="slider">
+<input type="range" id="likeness" name="slider" required>
 </form>
 /* Your CSS Code here. */
