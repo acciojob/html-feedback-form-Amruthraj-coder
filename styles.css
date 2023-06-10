@@ -3,7 +3,7 @@
     <input type="text" id="name" mane="name" maxlength="50" minlength="3" required>
 <br>
     <label for="portfolio" >portfolio</label><br>
-    <input type="text" name="portfolio" id="portfolio" required><br>
+    <input type="url" name="portfolio" id="portfolio" required><br>
 <label for="favColor">favColor</label><br>
 <input type="color" name="favColor" id="favColor" required><br>
 <label for="likeness">select a value</label><br>
